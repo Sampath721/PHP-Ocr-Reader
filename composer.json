@@ -1,0 +1,8 @@
+{
+    "require": {
+        "thiagoalessio/tesseract_ocr": "^2.8",
+        "ext-gd": "*",
+        "mindee/mindee": "^1.9"
+    }
+}
+
